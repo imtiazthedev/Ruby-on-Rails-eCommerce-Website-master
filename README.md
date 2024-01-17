@@ -1,8 +1,6 @@
-### [![AlexKent](https://user-images.githubusercontent.com/20374208/75432997-f5422100-5957-11ea-87a2-164eb98d83ef.png)](https://www.minepi.com/AlexKent) Support me joining PI Network app with invitation code [AlexKent](https://www.minepi.com/AlexKent) [![AlexKent](https://user-images.githubusercontent.com/20374208/75432997-f5422100-5957-11ea-87a2-164eb98d83ef.png)](https://www.minepi.com/AlexKent)
-
 ---
 
-<h3 align="center" > Ruby E-Commerce ( <a href="https://dopeshop.herokuapp.com" target="_blank">Demo</a> )</h3>
+<h3 align="center" > Ruby E-Commerce</h3>
 <p align="center">
 💎
 </p>
@@ -57,12 +55,6 @@ Cart
 ![cart](https://user-images.githubusercontent.com/20374208/40195915-99a80788-5a17-11e8-8a4c-df5a85d829a4.png)
 
 ---
-
-# Special Thanks on 
-
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Getting started
 
